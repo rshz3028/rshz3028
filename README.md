@@ -2,7 +2,7 @@
 
 Embedded systems engineer in training: **MSc Automotive Embedded Systems at ESIGELEC** (Rouen, France), with a BTech in Electrical & Computer Engineering from Amrita Vishwa Vidyapeetham.
 
-I like getting real hardware working: sensors, microcontrollers, power electronics, and the software that ties them together. I'm interested in **power electronics & control, embedded firmware, and energy systems**.
+My areas of focus are in **power electronics & control, embedded firmware, and energy systems**.
 
 📍 Paris region, France · 🔎 Looking for a 4–6 month internship · 💼 [LinkedIn](https://www.linkedin.com/in/rishikesh-sudheer-31977522a) · ✉️ rshz3028@gmail.com
 
